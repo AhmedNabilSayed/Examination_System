@@ -1,10 +1,13 @@
 🧪 Console-Based Examination System
+
 A simple yet powerful C# console application developed using .NET technologies to facilitate efficient and secure online assessments with automated grading and exam management.
 
 📌 Project Overview
+
 This project is designed to simulate a complete examination environment in the console, featuring different question types, admin control, and automatic scoring.
 
 ✅ Features
+
 ❓ Question Types
 
 Multiple Choice Questions (MCQs)
